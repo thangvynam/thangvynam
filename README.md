@@ -1,6 +1,12 @@
-I'm a self-taught passionate BackEnd Engineer from VietNam
+
 
 **About me**
+
+My name is Nam Thang. My major is information technology. I completed my Bachelor of Engineering degree in 2019 from University of Science. I am interested in the following topics: propgramming language, message queues. 
+
+I'm a self-taught passionate BackEnd Engineer from VietNam
+
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/thangvynam/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thangvynam/) 
 
 - 💼 BackEnd Engineer at [NAB](https://www.nab.com.au/)
 
@@ -13,14 +19,15 @@ I'm a self-taught passionate BackEnd Engineer from VietNam
     
 - 💬 Ask me about anything [here](https://github.com/thangvynam/thangvynam/issues)
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" alt="spring-boot" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>    
+<code><img height="20" alt="redis" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>   
+ 
 
 
 | <a href="https://github.com/thangvynam"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thangvynam&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NamThang's github stats" /></a> | <a href="https://github.com/thangvynam"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangvynam&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -28,20 +35,46 @@ I'm a self-taught passionate BackEnd Engineer from VietNam
 
 #### Repositories
 
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/thangvynam/cdio-project">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=cdio-project&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/thangvynam/forest-network">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=forest-network&theme=synthwave" />
+</a>   
+
+<a href="https://github.com/thangvynam/react-appchat-firebase">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=react-appchat-firebase&theme=cobalt" />
+</a> 
+<a href="https://github.com/thangvynam/annotation-generate-code">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=annotation-generate-code&theme=radical" />
 </a>
 
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://github.com/thangvynam/spring-cloud-gateway">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=spring-cloud-gateway&theme=merko" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a> -->
+<a href="https://github.com/thangvynam/simple-app">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=simple-app&theme=onedark" />
+</a>
+
+<a href="https://github.com/thangvynam/circuit-breaker-netflix-hystrix">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=circuit-breaker-netflix-hystrix&theme=gruvbox" />
+<a href="https://github.com/thangvynam/transform-kafka">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=transform-kafka&theme=dark" />
+</a>  
+
+<a href="https://github.com/thangvynam/expression-calculation-java">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=expression-calculation-java&theme=onedark" />
+</a>    
+<a href="https://github.com/thangvynam/paint-project-cplusplus">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=paint-project-cplusplus&theme=highcontrast" />
+</a>
