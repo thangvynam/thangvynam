@@ -40,9 +40,9 @@ I'm a self-taught passionate BackEnd Engineer from VietNam
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=cdio-project&theme=dracula" />
 </a>
-<a href="https://github.com/thangvynam/forest-network">
+<a href="https://github.com/thangvynam/amazon-product-scraper">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=forest-network&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=amazon-product-scraper&theme=onedark" />
 </a>   
 
 <a href="https://github.com/thangvynam/react-appchat-firebase">
@@ -58,9 +58,9 @@ I'm a self-taught passionate BackEnd Engineer from VietNam
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=spring-cloud-gateway&theme=merko" />
 </a>
-<a href="https://github.com/thangvynam/simple-app">
+<a href="https://github.com/thangvynam/forest-network">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=simple-app&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=forest-network&theme=synthwave" />
 </a>
 
 <a href="https://github.com/thangvynam/circuit-breaker-netflix-hystrix">
