@@ -46,9 +46,9 @@ I'm a self-taught passionate BackEnd Engineer from VietNam
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=amazon-product-scraper&theme=onedark" />
 </a>   
 
-<a href="https://github.com/thangvynam/react-appchat-firebase">
+<a href="https://github.com/thangvynam/tutorials">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=react-appchat-firebase&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=tutorials&theme=cobalt" />
 </a> 
 <a href="https://github.com/thangvynam/annotation-generate-code">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -76,7 +76,7 @@ I'm a self-taught passionate BackEnd Engineer from VietNam
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=expression-calculation-java&theme=onedark" />
 </a>    
-<a href="https://github.com/thangvynam/paint-project-cplusplus">
+<a href="https://github.com/thangvynam/react-appchat-firebase">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=paint-project-cplusplus&theme=highcontrast" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thangvynam&repo=react-appchat-firebase&theme=cobalt" />
+</a> 
