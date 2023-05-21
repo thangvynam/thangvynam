@@ -15,6 +15,7 @@ I'm a self-taught passionate BackEnd Engineer from VietNam
     - [lessons-from-migrating-service-on-premises-cloud](https://www.linkedin.com/pulse/lessons-from-migrating-service-on-premises-cloud-nam-thang/)
     - [api-gateway-spring-cloud-zuul-2](https://www.linkedin.com/pulse/api-gateway-spring-cloud-zuul-2-nam-thang/)
     - [circuit-breaker](https://www.linkedin.com/pulse/circuit-breaker-nam-thang/)
+    - [observability-with-opentelemetry](https://www.linkedin.com/pulse/observability-opentelemetry-nam-thang/)
    
     
 - 💬 Ask me about anything [here](https://github.com/thangvynam/thangvynam/issues)
